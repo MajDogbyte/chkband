@@ -35,7 +35,7 @@ asd
 
 
 
-wget http://testmy.net/dl-25MB
+wget https://testmy.net/dl-25MB
 
 
 rm dl-*
